@@ -33,7 +33,11 @@ com_watermark_reply = "Please <b>Master</b>, send me image or gif as file. I wil
 
 note_msg = """<code>NOTE✍️:</code> I can only upload 6 video per day to <b>YouTube</b>. YouTube API gives me only 10000 credits per day.
 To upload a video I use 1600 credits. And I cannot upload videos longer than 15 minutes to <b>YouTube.</b>
-To be able to upload videos longer than 15 minutes you have to <a href='https://www.youtube.com/verify'>verify</a> your YouTube Channel."""
+To be able to upload videos longer than 15 minutes you have to <a href='https://www.youtube.com/verify'>verify</a> your YouTube Channel.
+
+video tutorial is old, from version 1:
+https://github.com/olmastoretgshop/YT_upload
+"""
 
 warning_msg = """<code>WARNING⚠️:</code> Right now I am having problems deleting originally downloaded videos.
 For now just redeploy or manually delete the files"""
