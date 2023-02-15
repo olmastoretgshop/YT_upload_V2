@@ -25,10 +25,10 @@ In short, this bot downloads the video user wants it to download, then uploads t
 
 In detail:
 
-    You create a bot in Telegram. To create bot, use[@BotFather](https://t.me/BotFather). You set bot token in `config.py` file. You start the bot. You allow the bot to connect you your YouTube Channel, by giving it `client_id` and `client_secret`
+   You create a bot in Telegram. To create bot, use[@BotFather](https://t.me/BotFather). You set bot token in `config.py` file. You start the bot. You allow the bot to connect you your YouTube Channel, by giving it `client_id` and `client_secret`
     In the end you will find out how to create `client_id` and `client_secret`
 
-    After the bot is connected you send a link tou any youtube video you want to be downloaded. The bot downloads the video. Then automatically it uploads it to your YouTube Channel.
+   After the bot is connected you send a link tou any youtube video you want to be downloaded. The bot downloads the video. Then automatically it uploads it to your YouTube Channel.
 
 That's pretty much everything.
 
